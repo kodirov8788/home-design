@@ -1,9 +1,10 @@
 import './App.css';
+import Latest from './components/Latest';
 
 function App() {
   return (
-    <div className="La">
-      <h1></h1>
+    <div className="App">
+      <Latest />
     </div>
   );
 }
