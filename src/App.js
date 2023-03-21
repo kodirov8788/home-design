@@ -12,10 +12,10 @@ function App() {
     <div className="La">
       <Nav />
       <Main />
+      <Our />
       <Latest />
       <FooterTop />
       <Footer />
-      <Our />
     </div>
   );
 }
