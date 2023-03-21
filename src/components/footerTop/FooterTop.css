@@ -1,19 +1,11 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: serif;
-}
-
 .footerTop {
     width: 100%;
-    height: 100vh;
     background-color: #151850;
 }
 
 .imageFooter {
     width: 80%;
-    height: 500px;
+    /* height: 500px; */
     background-color: green;
     margin: auto;
     margin-top: 30px;
