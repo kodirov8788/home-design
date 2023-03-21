@@ -5,6 +5,7 @@ import Footer from './components/footer/Footer';
 import Our from './components/our/Our';
 import Nav from './components/navbar/Nav';
 import Main from './components/main/Main';
+import Nav from './components/navbar/Nav';
 
 
 function App() {

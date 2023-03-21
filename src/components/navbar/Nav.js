@@ -2,6 +2,8 @@ import React from 'react'
 import "./Nav.css"
 import logo from "../../images/logo.svg"
 
+import bars from "../../images/Vector.svg"
+
 function Nav() {
     return (
         <div className='navbar'>
@@ -20,6 +22,7 @@ function Nav() {
             </div>
             <div className="nav_end">
                 <button>CONTACT</button>
+                <img src={bars} alt="" />
             </div>
         </div>
     )

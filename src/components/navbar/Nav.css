@@ -36,10 +36,34 @@
     padding-right: 48px;
 }
 
+.nav_end img {
+    display: none;
+    color: white;
+}
+
 .nav_end button {
     width: 123px;
     background-color: transparent;
     height: 39px;
     border: 1px solid #fff;
     color: white;
+}
+
+@media (max-width:390px) {
+    .navbar {
+        background-color: transparent;
+    }
+
+    .nav_menu {
+        display: none;
+    }
+
+    .nav_end button {
+        display: none;
+    }
+
+    .nav_end img {
+        display: block;
+        color: white;
+    }
 }
