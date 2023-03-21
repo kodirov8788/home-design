@@ -1,0 +1,100 @@
+.footer-img {
+    width: 100%;
+    height: 300px;
+    /* border: 2px solid red; */
+    display: flex;
+    background-color: #151820;
+
+}
+
+.footer-img img {
+    box-sizing: border-box;
+    /* position: absolute; */
+    width: 208px;
+    height: 250px;
+    margin-top: 20px;
+    /* border: 1px solid #FFFFFF; */
+}
+
+.footer {
+    width: 100%;
+    height: 285px;
+    /* border: 2px solid red; */
+    display: flex;
+    background-color: #151820;
+}
+
+.f_one {
+    width: 40%;
+    height: 100%;
+    /* border: 2px solid red; */
+}
+
+.f_one img {
+    position: absolute;
+    left: 16.52%;
+
+    /* right: 76.26%; */
+    top: 45.21%;
+    /* bottom: 4.15%; */
+    /* background: #FFFFFF; */
+}
+
+.f_one p {
+    position: absolute;
+    width: 350px;
+    height: 104px;
+    left: 245px;
+    top: 450px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #D7E0E1;
+}
+
+.f_two {
+    width: 20%;
+    height: 100%;
+    /* border: 2px solid rgb(27, 12, 12);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    */
+}
+
+.f_two ul {
+    width: 91px;
+    height: 184px;
+    /* border: 2px solid red; */
+    color: #D7E0E1;
+    font-size: 14px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+
+}
+
+.f_two li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.f_three {
+    width: 40%;
+    height: 100%;
+    /* border: 2px solid rgb(8, 7, 7); */
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    color: #D7E0E1;
+}
+
+.f_three h1 {
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.f_three p {
+    margin-left: 20px;
+    width: 250px;
+}
