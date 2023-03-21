@@ -31,21 +31,17 @@
 }
 
 .f_one img {
-    position: absolute;
     left: 16.52%;
-
-    /* right: 76.26%; */
+    margin-left: 250px;
     top: 45.21%;
-    /* bottom: 4.15%; */
-    /* background: #FFFFFF; */
 }
 
 .f_one p {
-    position: absolute;
     width: 350px;
     height: 104px;
-    left: 245px;
     top: 450px;
+    margin-left: 245px;
+    margin-top: 40px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
