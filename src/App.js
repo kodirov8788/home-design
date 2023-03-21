@@ -1,9 +1,10 @@
 import './App.css';
+import FooterTop from './components/footerTop/FooterTop';
 
 function App() {
   return (
     <div className="La">
-      <h1></h1>
+      <FooterTop />
     </div>
   );
 }
