@@ -1,0 +1,47 @@
+.main1 {
+    width: 100%;
+    height: 100vh;
+    background: red;
+    display: flex;
+}
+
+.main1_half1 {
+    width: 50%;
+    height: 100%;
+    background-color: #12151D;
+}
+
+.half1_text {
+    width: 400px;
+    height: 270px;
+    margin-top: 175px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.half1_text h3 {
+    font-size: 15px;
+    color: yellow;
+}
+
+.half1_text h1 {
+    font-size: 40px;
+    color: white;
+}
+
+.half1_text p {
+    color: white;
+}
+
+.half1_text button {
+    width: 150px;
+    height: 50px;
+}
+
+.main1_half2 {
+    width: 50%;
+    height: 100%;
+    background-image: url("../../image/main1.svg");
+}
