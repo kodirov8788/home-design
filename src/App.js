@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="La">
       <Footer />
+      <h1>Hello</h1>
     </div>
   );
 }
