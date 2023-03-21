@@ -1,6 +1,6 @@
 import './App.css';
 import FooterTop from './components/footerTop/FooterTop';
-import Latest from './components/Latest';
+import Latest from './components/Latest/Latest';
 
 function App() {
   return (
