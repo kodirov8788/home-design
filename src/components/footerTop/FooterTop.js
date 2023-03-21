@@ -1,6 +1,6 @@
 import React from 'react'
-import footerTopBanner from "../footerTop/FooterTop.css"
-import images from "../images/people.png"
+import "../footerTop/FooterTop.css"
+import images from "../../images/people.png"
 function FooterTop() {
     return (
         <div className='footerTop'>
